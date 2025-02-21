@@ -19,6 +19,7 @@ export default function Navbar() {
           <a href="#skills" className="nav_items">
             Skills
           </a>
+
           <a href="#projects" className="nav_items">
             Projects
           </a>
