@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import skills from "../components/Data/skills.json";
 
 export default function Skills() {

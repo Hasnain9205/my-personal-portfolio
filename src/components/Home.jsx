@@ -11,6 +11,8 @@ export default function Home() {
         "Welcome to my profile",
         "My Name is Md.Hasnain Ahmed",
         "I'm full stack developer",
+        "also Mobile App Developer With React Native",
+        "I love to code",
       ],
       typeSpeed: 50,
       backSpeed: 50,
