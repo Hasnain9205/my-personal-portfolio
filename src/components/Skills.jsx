@@ -1,5 +1,6 @@
 import React from "react";
 import skills from "../components/Data/skills.json";
+import "../App.css"; // Ensure you have the correct path to your CSS file
 
 export default function Skills() {
   return (

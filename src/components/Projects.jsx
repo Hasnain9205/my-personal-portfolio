@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import projects from "../components/Data/projects.json";
+import "../App.css"; // Ensure you have the correct path to your CSS file
 
 export default function Projects() {
   return (

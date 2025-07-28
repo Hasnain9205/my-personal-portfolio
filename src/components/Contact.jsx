@@ -4,6 +4,7 @@ import { ImFacebook2 } from "react-icons/im";
 import { FaLinkedin, FaSquareGithub, FaSquareTwitter } from "react-icons/fa6";
 import { motion } from "framer-motion";
 import { GrYoutube } from "react-icons/gr";
+import "../App.css"; // Ensure you have the correct path to your CSS file
 
 export default function Contact() {
   const socialLinks = [
@@ -60,7 +61,7 @@ export default function Contact() {
   return (
     <div className="container mx-auto px-4 py-12" id="contact">
       <h1 className="text-3xl font-bold mb-2">Contact Me</h1>
-      <div className="flex justify-center items-center gap-6 flex-wrap">
+      <div className="flex justify-center mt-8 items-center gap-6 flex-wrap">
         {socialLinks.map(({ id, icon, link, color }) => (
           <motion.a
             key={id}

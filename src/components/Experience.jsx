@@ -1,5 +1,6 @@
 import React from "react";
 import experience from "../components/Data/experience.json";
+import "../App.css"; // Ensure you have the correct path to your CSS file
 
 export default function Experience() {
   return (
