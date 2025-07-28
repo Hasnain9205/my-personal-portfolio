@@ -54,11 +54,11 @@ export default function Home() {
 
       {/* Right Section */}
       <div
-        className="flex-1 sm:max-w-sm md:max-w-md flex justify-center items-center flex-shrink-0"
+        className="right flex-1 sm:max-w-sm md:max-w-md flex justify-center items-center flex-shrink-0 "
         data-aos="fade-up-left"
         data-aos-duration="1000"
       >
-        <div className="glow-container relative aspect-square w-full max-w-[320px]">
+        <div className="img glow-container relative aspect-square  max-w-[320px] w-full h-auto border-[4px] border-yellow-400 rounded-full animate-pulse">
           <img
             src={img}
             alt="Profile"
