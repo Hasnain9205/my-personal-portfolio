@@ -1,41 +1,54 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "role": "Full Stack Web Developer",
+    "organisation": "bPay (Paycell Project)",
+    "startDate": "Jan, 2024",
     "endDate": "Present",
-    "location": "CA,United State",
+    "location": "Dhaka, Bangladesh",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Built payment gateway integration for mobile top-up services.",
+      "Developed dashboards for service and transaction management using React & Node.js."
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/b.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Frontend Developer",
+    "organisation": "Brain Station 23",
+    "startDate": "Jul, 2023",
+    "endDate": "Dec, 2023",
+    "location": "Dhaka, Bangladesh",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Built responsive UI for SaaS products using React and Tailwind CSS.",
+      "Collaborated with backend teams to integrate REST APIs and GraphQL endpoints."
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/b1.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Junior Software Engineer",
+    "organisation": "DataSoft Systems Bangladesh Ltd.",
+    "startDate": "Jan, 2023",
+    "endDate": "Jun, 2023",
+    "location": "Dhaka, Bangladesh",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Worked on microfinance software for local banks using Node.js and MongoDB.",
+      "Optimized data processing and reporting performance by 30%."
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/b2.png"
+  },
+  {
+    "id": 4,
+    "role": "Web Developer Intern",
+    "organisation": "REVE Systems",
+    "startDate": "Aug, 2022",
+    "endDate": "Dec, 2022",
+    "location": "Dhaka, Bangladesh",
+    "experiences": [
+      "Contributed to development of VoIP dashboard using Vue.js and RESTful APIs.",
+      "Learned industry-standard CI/CD pipelines and agile development process."
+    ],
+    "imageSrc": "company/b3.png"
   }
 ]

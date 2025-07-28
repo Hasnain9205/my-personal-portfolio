@@ -17,13 +17,14 @@ export default function Experience() {
             >
               <div className="lefts w-full md:w-1/3 flex justify-center">
                 <img
-                  className="w-24 h-24"
+                  className="w-32 h-24"
                   src={`/assets/${data.imageSrc}`}
                   alt=""
                 />
               </div>
               <div className="right w-full md:w-2/3 text-white">
                 <h2 className="text-2xl font-semibold">{data.role}</h2>
+                <h2 className="text-xl font-semibold">{data.organisation}</h2>
                 <h4 className="text-xl font-semibold">
                   <span className="text-lime-400">
                     {data.startDate} - {data.endDate}
